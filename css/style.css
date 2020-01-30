@@ -13,6 +13,11 @@ li {
 	padding-right: 0px;
 }
 
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
 a{
 	text-decoration-line: none;
 }
@@ -74,4 +79,41 @@ nav a {
 
 nav a:hover {
 	color: #3DA6A3;
+}
+
+/*FOOTER Style*/
+
+html {
+	height: 100%;;
+}
+
+body {
+	min-height: 100%;
+	display: grid;
+	grid-template-rows: 1fr auto;
+}
+
+
+footer{
+	background-color: #313131;
+	grid-row-start: 3;
+	grid-row-end: 3;
+
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	color: #DDDFD3;
+}
+
+footer ul {
+	padding-top: 20px;
+}
+
+.copyright {
+	margin-top: 13%;
 }

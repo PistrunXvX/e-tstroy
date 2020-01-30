@@ -2,10 +2,10 @@
 				<div class="row">
 					<div class="col-4 clearfix">
 						<ul class="float-left navbar-footer">
-							<li><a href="#">О компании</a></li>
-							<li><a href="#">Портфолио</a></li>
-							<li><a href="#">Партнеры</a></li>
-							<li><a href="#">Контакты</a></li>
+							<li><a href="../index.php">О компании</a></li>
+							<li><a href="../portfolio.php">Портфолио</a></li>
+							<li><a href="../partners.php">Партнеры</a></li>
+							<li><a href="../contacts.php">Контакты</a></li>
 						</ul>
 					</div>
 					<div class="col-4">

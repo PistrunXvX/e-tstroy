@@ -20,7 +20,7 @@
 				</div>
 			</div>
 			<nav>
-				<div class="row">
+				<div class="row nav">
 					<div class="col">
 						<ul clas="navbar">
 							<li><a href="../index.php">О компании</a></li>
