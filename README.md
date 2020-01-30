@@ -15,7 +15,7 @@
 
 ## Верстка
 
-+ header
++ header - Готово!
 + main
 + footer
 
