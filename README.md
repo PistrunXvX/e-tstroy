@@ -17,6 +17,9 @@
 
 + header - Готово!
 + main
+  + main_portfolio
+  + main_partner
+  + main_contacts
 + footer - Готово! (посмотреть баг с привязкой футера)
 
 ---
