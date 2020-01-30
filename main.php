@@ -1,4 +1,4 @@
-<main class="container">
+<main class="container-fluid">
 	<div class="row text-main">
 		<div class="col">
 			<p>
@@ -78,7 +78,7 @@
 			<div class="col-4">
 				<section class="project-1">
 					<a href="#">
-						<img src="img/Proekt_1.png" alt="офис продаж жилого комплекса SREDA">
+						<img src="img/Proekt_1.png" class="img-fluid" alt="офис продаж жилого комплекса SREDA">
 						<p>
 							офис продаж жилого комплекса SREDA
 						</p>
@@ -88,7 +88,7 @@
 			<div class="col-4">
 				<section class="project-2">
 					<a href="#">
-						<img src="img/Poekt_2.png" alt="строительство завода по производству газоизмерительных станций (ГИС)">
+						<img src="img/Poekt_2.png" class="img-fluid" alt="строительство завода по производству газоизмерительных станций (ГИС)">
 						<p>
 							строительство завода по производству газоизмерительных станций (ГИС)
 						</p>
@@ -98,7 +98,7 @@
 			<div class="col-4">
 				<section class="project-3">
 					<a href="#">
-						<img src="img/Proekt_3.png" alt="Комплекс работ по благоустройству города Плес">
+						<img src="img/Proekt_3.png" class="img-fluid" alt="Комплекс работ по благоустройству города Плес">
 						<p>
 							Комплекс работ по благоустройству города Плес
 						</p>
@@ -121,7 +121,7 @@
 		<div class="row license-text">
 			<div class="col">
 				<h2>Лицензия</h2>
-				<img src="img/unnamed.png" alt="Альфа-партнер центр рецензирования">
+				<img src="img/unnamed.png" class="img-fluid" alt="Альфа-партнер центр рецензирования">
 				<a href="#">Выписка из СРО</a>
 			</div>
 		</div>
