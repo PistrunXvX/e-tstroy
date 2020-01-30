@@ -20,10 +20,10 @@
 				<div class="row">
 					<div class="col">
 						<li clas="navbar">
-							<ul>О компании</ul>
-							<ul>Портфолио</ul>
-							<ul>Партнеры</ul>
-							<ul>Контакты</ul>
+							<ul><a href="../index.php">О компании</a></ul>
+							<ul><a href="../portfolio.php">Портфолио</a></ul>
+							<ul><a href="../partners.php">Партнеры</a></ul>
+							<ul><a href="../contacts.php">Контакты</a></ul>
 						</li>
 					</div>
 				</div>

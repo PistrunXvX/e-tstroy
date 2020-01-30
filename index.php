@@ -1,5 +1,5 @@
 <?php
-require('header.php');
-require('main.php');
-require('footer.php');
+require('Components/header.php');
+require('Components/main.php');
+require('Components/footer.php');
 ?>

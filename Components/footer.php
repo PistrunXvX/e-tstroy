@@ -9,7 +9,7 @@
 						</ul>
 					</div>
 					<div class="col-4">
-						<p class="copyright fixed-bottom text-center">
+						<p class="copyright text-center">
 							ООО «ЭлитСтрой» @Copyright 2001 - 2020 создано Eugeny Goryachkin
 						</p>
 					</div>
