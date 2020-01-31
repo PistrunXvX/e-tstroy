@@ -89,8 +89,6 @@ html {
 
 body {
 	min-height: 100%;
-	display: grid;
-	grid-template-rows: 1fr auto;
 }
 
 
@@ -116,4 +114,348 @@ footer ul {
 
 .copyright {
 	margin-top: 13%;
+}
+
+/*MAIN page style*/
+
+.text-top {
+	color: #173E44;
+	font-size: 36px;
+	text-align: center;
+
+	padding-top: 10%;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.main-color {
+	background-color: #DDDFD3;
+}
+
+.about-company {
+	color: #173E44;
+	font-size: 30px;
+
+	border: 5px solid #173E44;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+
+	background-image: url(../img/workers.svg);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 12%;
+}
+
+.about-company p {
+	padding-left: 15%;
+}
+
+.company-org-container {
+	background-color: #FAE68A;
+	color: #173E44;
+
+	background-image: url(../img/Back_comapny.svg);
+	background-repeat: no-repeat;
+	background-position: 90% center;
+	background-size: 20%;
+}
+
+.main-text-company h2 {
+	text-align: center;
+	
+	font-size: 36px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+
+.company-org h3 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.company-org p {
+	font-size: 34px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.about-company {
+	text-align: center;
+}
+
+.about-1, .about-3 {
+	margin-left: 5%;
+	margin-top: 5%;
+
+	padding-top: 30%;
+}
+
+.about-2, .about-4 {
+	margin-right: 5%;
+	margin-top: 5%;
+
+	padding-top: 30%;
+}
+
+.about-2 h3, .about-4 h3 {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.about-3, .about-4 {
+	padding-bottom: 10%;
+}
+
+.about-1 {
+	background-image: url(../img/brick.svg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 30%;
+}
+
+.about-2 {
+	background-image: url(../img/power.svg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 30%;
+}
+
+.about-3 {
+	background-image: url(../img/window.svg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 30%;
+}
+
+.about-4 {
+	background-image: url(../img/delivery-truck.svg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 30%;
+}
+
+.report {
+	height: 15%;
+}
+
+.report h2 {
+	text-align: center;
+	color: #173E44;
+	font-size: 55px;
+
+	padding-top: 2%;
+}
+
+.project{
+	background-color: #3DA6A3;
+	color: white;
+}
+
+.project-text h2 {
+	text-align: center;
+	font-size: 55px;
+
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+
+.project-builds a {
+	color: white;
+}
+
+.project-builds {
+	border-width: 50%;
+}
+
+.project-builds p {
+	width: 60%;
+	text-align: center;
+	font-size: 25px;
+
+	padding-top: 3%;
+}
+
+.project-1 {
+	padding-left: 10%;
+	padding-top: 5%;
+}
+
+.project-1 p {
+	margin-left: 2%;
+}
+
+.project-2 {
+	padding-left: 13%;
+	padding-top: 5%;
+}
+
+.project-3 p {
+	margin-left: 14%;
+}
+
+.project-3 {
+	padding-left: 10%;
+	padding-top: 5%;
+}
+
+.project-1:hover {
+	background-image: url(../img/Oval.svg);
+	background-position: 15% 0%;
+	background-size: 70%;
+	background-repeat: no-repeat;
+}
+
+.project-2:hover {
+	background-image: url(../img/Oval.svg);
+	background-position: 20% 0%;
+	background-size: 50%;
+	background-repeat: no-repeat;
+}
+
+.project-3:hover {
+	background-image: url(../img/Oval.svg);
+	background-position: 0% 0%;
+	background-size: 90%;
+	background-repeat: no-repeat;
+}
+
+.portfolio-href {
+	padding-left: 10%;
+	font-size: 40px;
+}
+
+.right-text{
+	padding-left: 14%;
+	padding-bottom: 3%;
+}
+
+.right-text a {
+	text-decoration: underline;
+	color: #FAE68A;
+}
+
+.right-text a:hover {
+	color: #FFDE48;
+}
+
+.license-text h2 {
+	text-align: center;
+	font-size: 55px;
+	color: #173E44;
+	
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.license-text-href {
+	text-align: center;
+	font-size: 30px;
+
+	padding-bottom: 4%;
+}
+
+.license-text-href a {
+	color: #173E44;
+}
+
+.license-text-href a:hover {
+	color: #050E0F;
+}
+
+.contacts-company {
+	background-color: #3DA6A3;
+}
+
+.phone, .email {
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.phone p, .email p {
+	color: white;
+	font-size: 35px;
+}
+
+.phone span, .email span {
+	color: white;
+	font-size: 25px;
+}
+
+.contact-me {
+	border: 7px solid #173E44;
+}
+
+.contact-me h2 {
+	text-align: center;
+	color: #173E44;
+	font-size: 55px;
+
+	padding-top: 3%;
+	padding-bottom: 2%;
+}
+
+.contact-me form {
+	text-align: center;
+}
+
+.contact-me input {
+	width: 50%;
+	border-radius: 15px;
+	margin-bottom: 3%;
+}
+
+.contact-me button {
+	width: 25%;
+	display: block;
+	margin-left: 38%;
+	margin-bottom: 3%;
+
+	border: none;
+	border-radius: 10px;
+
+	padding-top: 4%;
+
+	background-color: #2196F3;
+	background-image: url(../img/paper-plane.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+.contact-me button:hover {
+	background-color: #2588D7;
+}
+
+.contact-me button:active {
+	background-color: #316893;
+}
+
+.contact-me form{
+	background-image: url(../img/arroba.svg),
+					  url(../img/telephone.svg);
+	background-repeat: no-repeat;
+	background-position: 21% 0%, 21%;
+	background-size: 4%;
+}
+
+.addres-company {
+	background-color: #FAE68A;
+	text-align: center;
+}
+
+.addres-company p, span {
+	color: #173E44;
+	padding-top: 3%;
+}
+
+.addres-company p {
+	font-size: 35px;
+}
+
+.addres-company span {
+	font-size: 25px;
 }
