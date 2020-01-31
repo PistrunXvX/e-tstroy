@@ -16,7 +16,7 @@
 ## Верстка
 
 + header - Готово!
-+ main
++ main - Готово!
   + main_portfolio
   + main_partner
   + main_contacts
