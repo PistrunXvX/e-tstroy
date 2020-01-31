@@ -447,7 +447,7 @@ footer ul {
 	text-align: center;
 }
 
-.addres-company p, span {
+.addres-company p, .addres-company span {
 	color: #173E44;
 	padding-top: 3%;
 }
@@ -458,4 +458,28 @@ footer ul {
 
 .addres-company span {
 	font-size: 25px;
+}
+
+/*PORTFOLIO style*/
+
+.project-back {
+	background-image: url(../img/2_chertez-min.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+
+.project-filter{
+	font-size: #173E44;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #FAE68A;
+}
+
+.project-filter p {
+	font-size: 25px;
+	color: #173E44;
+
+	padding-left: 3%;
+	padding-top: 3%;
+	padding-bottom: 3%;
 }
