@@ -1,30 +1,30 @@
-<div class="container-fluid">
+<div class="container-fluid contact-container">
 	<div class="row">
-		<div class="col">
+		<div class="col text-contact">
 			<h2>Вы можете оставить заявку</h2>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col">
-			<section class="contact-me">
+	<div class="row justify-content-center">
+		<div class="col-6">
+			<section class="contact-me main-contact-phone">
 				<h2>Оставтье заявку</h2>
 				<form action="">
-					<input type="email">
-					<input type="tel">
-					<button><img src="img/paper-plane.svg" alt="Отправить заявку"></button>
+					<input type="email" placeholder="Ваш email">
+					<input type="tel" placeholder="Ваш телефон">
+					<button></button>
 				</form>
 			</section>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col">
+		<div class="col text-contact">
 			<p>Или связаться с нами</p>
 		</div>
 	</div>
 	<div class="container">
-		<div class="row">
+		<div class="row no-gutters">
 			<div class="col-6">
-				<section class="contacts-company">
+				<section class="contacts-company main-contact">
 					<section class="phone">
 						<p>
 							Наш телефон 
@@ -39,7 +39,7 @@
 					</section>
 				</section>
 			</div>
-			<div class="col-6">
+			<div class="col-6 addres-company">
 				<section class="addres-company">
 					<p>
 						Мы находимся
@@ -48,6 +48,11 @@
 						г. Москва,  ул. Свободы, д. 35, к. 14 
 					</span>
 				</section>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<!-- Добавить API yandex maps -->
 			</div>
 		</div>
 	</div>

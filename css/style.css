@@ -504,3 +504,18 @@ footer ul {
 
 	margin-bottom: 5%;
 }
+
+/*CONTACTS style*/
+
+.contact-container {
+	background-color: #DDDFD3;
+}
+
+.text-contact p, .text-contact h2 {
+	color: #173E44;
+	font-size: 55px;
+	text-align: center;
+
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
