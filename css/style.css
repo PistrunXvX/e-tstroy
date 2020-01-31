@@ -483,3 +483,24 @@ footer ul {
 	padding-top: 3%;
 	padding-bottom: 3%;
 }
+
+/*PARTNERS style*/
+
+.partners-back {
+	background-color: #DDDFD3;
+}
+
+.text-partners h2 {
+	text-align: center;
+	font-size: 35px;
+	color: #173E44;
+
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+.partners-href {
+	background-color: white;
+
+	margin-bottom: 5%;
+}
