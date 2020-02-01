@@ -136,7 +136,7 @@
 		</div>
 		<div class="row license-text-href">
 			<div class="col">
-				<a href="#">Выписка из СРО</a>
+				<a href="../documents/SRO.pdf" target="_blank">Выписка из СРО</a>
 			</div>
 		</div>
 	</section>

@@ -10,7 +10,7 @@
 					</div>
 					<div class="col-4">
 						<p class="copyright text-center">
-							ООО «ЭлитСтрой» @Copyright 2001 - 2020 создано Eugeny Goryachkin
+							ООО «ЭлитСтрой» @Copyright 2001 - <?php echo date('Y'); ?> создано Eugeny Goryachkin
 						</p>
 					</div>
 					<div class="col-4 clearfix">
