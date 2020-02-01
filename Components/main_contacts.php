@@ -8,10 +8,10 @@
 		<div class="col-6">
 			<section class="contact-me main-contact-phone">
 				<h2>Оставтье заявку</h2>
-				<form action="">
-					<input type="email" placeholder="Ваш email">
-					<input type="tel" placeholder="Ваш телефон">
-					<button></button>
+				<form action="../php/send.php" method="post">
+					<input type="email" placeholder="Ваш email" name="email" required>
+					<input type="tel" placeholder="Ваш телефон" name="phone" required>
+					<button type="submit"></button>
 				</form>
 			</section>
 		</div>
@@ -27,7 +27,7 @@
 				<section class="contacts-company main-contact">
 					<section class="phone">
 						<p>
-							Наш телефон 
+							Наш телефон
 						</p>
 						<span>(499) 391-22-19</span>
 					</section>
@@ -45,7 +45,7 @@
 						Мы находимся
 					</p>
 					<span>
-						г. Москва,  ул. Свободы, д. 35, к. 14 
+						г. Москва,  ул. Свободы, д. 35, к. 14
 					</span>
 				</section>
 			</div>

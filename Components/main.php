@@ -50,7 +50,7 @@
 				</section>
 			</div>
 			<div class="col-4 back-img-company">
-				
+
 			</div>
 		</div>
 		<div class="row company-org">
@@ -72,7 +72,7 @@
 		<div class="row">
 			<div class="col">
 				<h2>Отзывы</h2>
-						<!-- Добавить слайдер отзывов -->	
+						<!-- Добавить слайдер отзывов -->
 			</div>
 		</div>
 	</section>
@@ -80,7 +80,7 @@
 		<div class="row project-text">
 			<div class="col">
 				<h2>Проекты</h2>
-			</div>	
+			</div>
 		</div>
 		<div class="row project-builds">
 			<div class="col-4">
@@ -121,7 +121,7 @@
 				</p>
 				<section class="right-text">
 					<p>
-						Убедитесь в этом в нашем <a href="#" class="portfolio-text-href">портфолио</a> 
+						Убедитесь в этом в нашем <a href="#" class="portfolio-text-href">портфолио</a>
 					</p>
 				</section>
 			</div>
@@ -146,7 +146,7 @@
 				<section class="contacts-company">
 					<section class="phone">
 						<p>
-							Наш телефон 
+							Наш телефон
 						</p>
 						<span>(499) 391-22-19</span>
 					</section>
@@ -161,10 +161,10 @@
 			<div class="col-6 contact-me">
 				<section>
 					<h2>Оставтье заявку</h2>
-					<form action="">
-						<input type="email" placeholder="Ваш email">
-						<input type="tel" placeholder="Ваш телефон">
-						<button></button>
+					<form action="../php/send.php" method="post">
+						<input type="email" placeholder="Ваш email" name="email" required>
+						<input type="tel" placeholder="Ваш телефон" name="phone" required>
+						<button type="submit"></button>
 					</form>
 				</section>
 			</div>
@@ -174,7 +174,7 @@
 						Мы находимся
 					</p>
 					<span>
-						г. Москва,  ул. Свободы, д. 35, к. 14 
+						г. Москва,  ул. Свободы, д. 35, к. 14
 					</span>
 				</section>
 			</div>

@@ -21,7 +21,7 @@
 							<li>125362 г. Москва,  ул. Свободы, д. 35, к. 14 </li>
 						</ul>
 					</div>
-				</div>			
+				</div>
 		</footer>
 		<script src="../scripts/mapAPI.js"></script>
 	</body>
