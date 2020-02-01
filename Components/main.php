@@ -180,7 +180,5 @@
 			</div>
 		</div>
 	</section>
-	<section class="map">
-		<!-- Добавить API Yandex map -->
-	</section>
+	<div id="map" style="width: 100%; height: 300px;"></div>
 </main>

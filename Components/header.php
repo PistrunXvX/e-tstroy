@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-<!-- 	<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
-	<link rel="stylesheet" href="css/bootstrap-grid.min.css"> -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700&display=swap" rel="stylesheet">
+	 <script src="https://api-maps.yandex.ru/2.1/?apikey=3aa4b630-3572-4776-a1dc-4422cc690b42&lang=ru_RU" type="text/javascript">
+    </script>
 	<title>ЭлитСтрой</title>
 </head>
 <body>

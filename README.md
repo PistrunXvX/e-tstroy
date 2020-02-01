@@ -28,4 +28,4 @@
 
 + Слайдер(главная и портфолио)
 + php-форма
-+ API Yandex maps
++ API Yandex maps - Готово!
