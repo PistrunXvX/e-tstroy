@@ -6,7 +6,7 @@
 
 ## Настройка
 
-+ MangoDB
++ MongoDB
 + Sass
 + Django
 + robots.txt
