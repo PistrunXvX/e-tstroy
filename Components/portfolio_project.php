@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="../css/style_portfolio.css">
 <div class="container-fluid project-back">
-	<button class=""></button>
 	<div class="container portfolio-template">
+		<section class="fixed-button"><button class=""></button></section>
+		
 		<div class="row no-gutters">
 			<div class="col-3" id="">
 				<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">

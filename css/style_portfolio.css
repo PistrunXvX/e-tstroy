@@ -19,11 +19,16 @@
 	position: relative;
 }
 
+.fixed-button {
+	position: fixed;
+	right: 2%;
+}
+
 .project-back button {
 	position: absolute;
 
-	right: 3%;
-	bottom: -50%;
+	right: 10%;
+	bottom: -10%;
 
 	background-image: url(../img/Next_Button.svg);
 	background-repeat: no-repeat;
