@@ -482,6 +482,25 @@ footer ul {
 	padding-left: 3%;
 	padding-top: 3%;
 	padding-bottom: 3%;
+	float: left;
+}
+
+.input-portfolio section {
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+.input-portfolio select {
+	width: 80%;
+	border-radius: 20px;
+	border: none;
+}
+
+.project-portfolio-back {
+	background-color: #FAE68A;
+
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 
 /*PARTNERS style*/
@@ -519,3 +538,4 @@ footer ul {
 	padding-top: 4%;
 	padding-bottom: 4%;
 }
+
