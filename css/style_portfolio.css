@@ -19,7 +19,7 @@
 	padding-bottom: 5%;
 	position: relative;
 }
-
+/*
 .fixed-button {
 	position: fixed;
 	right: 2%;
@@ -47,4 +47,23 @@
 	position: fixed;
 	left: 8%;
 	
-}
+}*/
+
+#image {
+ overflow:hidden;
+ width: 277px;
+ height:370px;
+ }
+
+ #image img {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+ 
+#image img:hover{
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+ }
+
