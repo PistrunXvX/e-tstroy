@@ -72,7 +72,13 @@
 		<div class="row">
 			<div class="col">
 				<h2>Отзывы</h2>
-						<!-- Добавить слайдер отзывов -->
+			<div style="border: solid 12px blue; width: 500px; height: 500px;">
+			<img src="../img/project_img/project_1_1-min.jpg" height="500" width="500" class="img-template" id="image"> 
+		</div>
+
+		<input type="button" value="PREVIOUS" id="prev" name="prev" onclick="goback();" >
+	
+		<input type="button" value="NEXT" id="next" name="next" onclick="gofwd();" >
 			</div>
 		</div>
 	</section>
