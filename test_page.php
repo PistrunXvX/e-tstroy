@@ -34,7 +34,7 @@
 	    		if(curimg > 0)
 	   			{
 	    			im.src = images[curimg-1];
-	    			curimg = curimg - 1;
+	    			curimg -= 1;
 	   			}else{
 	    				return;
 	   				}
@@ -45,7 +45,7 @@
 				let im=document.getElementById("image");
 	    		if(curimg < numimg){
 	    			im.src = images[curimg+1];
-	    			curimg = curimg + 1;
+	    			curimg += 1;
 	   			}else{
 	     				return;
 	       			}
