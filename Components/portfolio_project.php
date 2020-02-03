@@ -1,149 +1,133 @@
 <link rel="stylesheet" href="../css/style_portfolio.css">
 <div class="container-fluid project-back">
 	<div class="container portfolio-template">
-		<section class="fixed-button">
-			<button class=""></button>
-		</section>
-		<div class="row no-gutters">
-		<section class="fixed-button"><button id="btn_one" onclick=""></button></section>
-		<section class="second-button"><button id="btn_two" onclick="goback()"></button></section>
-			
-		
-		<div class="slider">
-
-			<div class="item" id="itm">
-
 				<div class="row no-gutters">
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_1_front-min.jpg" alt="«Магазин шаговой доступности»" class="img-template">
 						<p>
-							Описание обьекта
+							Магазин шаговой доступности
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_2_front-min.png" alt="Высотный комплекс «Континенталь»" class="img-template">
 						<p>
-							Описание обьекта
+							Высотный комплекс «Континенталь»
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_3_front-min.png" alt="«Многофункциональный жилой комплекс со спортивно-оздоровительным центром»" class="img-template">
 						<p>
-							Описание обьекта
+							«Многофункциональный жилой комплекс со спортивно-оздоровительным центром»
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_4_front-min.png" alt="Элитный жилой комплекс «Покровский берег»" class="img-template">
 						<p>
-							Описание обьекта
+							Элитный жилой комплекс «Покровский берег»
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_5_front-min.jpg" alt="Офисно-досуговый центр «Станиславский парк» " class="img-template">
 						<p>
-							Описание обьекта
+							Офисно-досуговый центр «Станиславский парк» 
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_6_front-min.jpg" alt="Семнадцатиэтажный жилой дом" class="img-template">
 						<p>
-							Описание обьекта
+							Семнадцатиэтажный жилой дом
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_7_front-min.jpg" alt="Три семнадцатиэтажных жилых дома" class="img-template">
 						<p>
-							Описание обьекта
+							Три семнадцатиэтажных жилых дома
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_8_front-min.jpg" alt="Строительный комплекс «Звезда России»" class="img-template">
 						<p>
-							Описание обьекта
+							Строительный комплекс «Звезда России»
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_9_front-min.jpg" alt="Жилой многоэтажный дом" class="img-template">
 						<p>
-							Описание обьекта
+							Жилой многоэтажный дом
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_10_front-min.jpg" alt="Жилой кирпичный дом" class="img-template">
 						<p>
-							Описание обьекта
+							Жилой кирпичный дом
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_11_front-min.jpg" alt="Коттеджный поселок «Поливаново»" class="img-template">
 						<p>
-							Описание обьекта
+							Коттеджный поселок «Поливаново»
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_12_front-min.jpg" alt="Жилой дом–" class="img-template">
 						<p>
-							Описание обьекта
+							Жилой дом–
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_13_front-min.JPG" alt="Комплекс работ по благоустройству города Плес" class="img-template">
 						<p>
-							Описание обьекта
+							Комплекс работ по благоустройству города Плес
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_14_front-min.jpg" alt="Комплекс работ по капитальному ремонту многоквартирных домов (свыше 400 домов) в г. Иваново" class="img-template">
 						<p>
-							Описание обьекта
+							Комплекс работ по капитальному ремонту многоквартирных домов (свыше 400 домов) в г. Иваново
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_15_front-min.JPG" alt="Генеральный подряд на строительство завода по производству газоизмерительных станций (ГИС) ООО Саратовгазавтоматика"  class="img-template">
 						<p>
-							Описание обьекта
+							Генеральный подряд на строительство завода по производству газоизмерительных станций (ГИС) ООО "Саратовгазавтоматика" 
 						</p>
 					</div>
 					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
+						<img src="../img/project_img/project_16_front-min.JPG" alt="Строительство коттеджного поселка Павловы озера" class="img-template">
 						<p>
-							Описание обьекта
+							Строительство коттеджного поселка "Павловы озера"
 						</p>
 					</div>
+					<div class="col-3" id="">
+						<img src="../img/project_img/project_17_front-min.jpg" alt="Строительство закольцованной системы газоснабжения среднего давления 8500 метров " class="img-template">
+						<p>
+							Строительство закольцованной системы газоснабжения среднего давления 8500 метров 
+						</p>
+					</div>
+					<div class="col-3" id="">
+						<img src="../img/project_img/project_18_front-min.jpg" alt="офис продаж жилого комплекса SREDA" class="img-template">
+						<p>
+							Офис продаж жилого комплекса SREDA
+						</p>
+					</div>
+					<div class="col-3" id="">
+						<img src="../img/project_img/project_19_front-min.jpg" alt="Внутренняя отделка жилого комплекса Олимпийская деревня Новогорск" class="img-template">
+						<p>
+							Внутренняя отделка жилого комплекса "Олимпийская деревня Новогорск"
+						</p>
+					</div>
+					<div class="col-3" id="">
+						<img src="../img/project_img/project_20_front-min.JPG" alt="Московский Нефтеперерабатывающий завод" class="img-template">
+						<p>
+							Московский Нефтеперерабатывающий завод
+						</p>
+					</div>
+					<div class="col-3" id="">
+						<img src="../img/project_img/project_21_front-min.jpg" alt="Офис управляющей компании Клейн Хаус" class="img-template">
+						<p>
+							Офис управляющей компании "Клейн Хаус" 
+						</p>
 					</div>
 				</div>
-			</div>
-
-			<div class="item_two" id="itm_two">
-
-				<div class="row no-gutters">
-					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
-						<p>
-							Описание обьекта
-						</p>
-					</div>
-					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
-						<p>
-							Описание обьекта
-						</p>
-					</div>
-
-					<div class="item_three" id="itm_three">
-
-				<div class="row no-gutters">
-					<div class="col-3" id="">
-						<img src="../img/project_img/IMG_0159.jpg" alt="" class="img-template">
-						<p>
-							Описание обьекта
-						</p>
-					</div>
-				
-				</div>
-			</div>
-			</div>
 			</div>
 		</div>
-	</div>
-</div>
