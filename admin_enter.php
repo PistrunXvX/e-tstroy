@@ -21,7 +21,9 @@ $text = $_POST['passwd'];
 //     $value = trim($value);
 //     return $value;
 // }
-if ($value == "123") {
-    header ("Location: /admin.php");
+if ($text == "123") {
+    echo "<div class=\"container\">
+			<h2> Админка </h2>
+		  </div>";
 }
 ?>
