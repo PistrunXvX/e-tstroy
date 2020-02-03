@@ -6,9 +6,12 @@
 					<p>
 						Выберите категорию
 					</p>
+					<select name="" id="">
+						<option value="">Жилые дома</option>
+						<option value="">Заводские сооружения</option>
+					</select>
 				</section>	
 			</div>
 		</div>
-		<!-- Добавить слайдер проектов -->
 	</div>
 </section>
