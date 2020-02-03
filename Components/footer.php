@@ -24,5 +24,6 @@
 				</div>
 		</footer>
 		<script src="../scripts/mapAPI.js"></script>
+		<script src="../scripts/core.js"></script>
 	</body>
 </html>
