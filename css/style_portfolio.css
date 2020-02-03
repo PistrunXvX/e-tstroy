@@ -1,0 +1,19 @@
+.portfolio-template img {
+	width: 100%;
+	position: relative;
+	
+	filter: brightness(50%);
+}
+
+.portfolio-template p {
+	z-index: 2;
+	position: absolute;
+	bottom: 10%;
+	left: 20%;
+
+	color: white;
+}
+
+.portfolio-template {
+	padding-bottom: 5%;
+}
