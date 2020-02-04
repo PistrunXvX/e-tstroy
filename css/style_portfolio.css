@@ -19,40 +19,12 @@
 	padding-bottom: 5%;
 	position: relative;
 }
-/*
-.fixed-button {
-	position: fixed;
-	right: 2%;
-}
-
-.project-back button {
-	position: absolute;
-
-	right: 10%;
-	bottom: -10%;
-
-	background-image: url(../img/Next_Button.svg);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: contain;
-
-	border-radius: 50px;
-	border: none;
-
-	padding: 30px;
-
-}
-
-.second-button {
-	position: fixed;
-	left: 8%;
-	
-}*/
 
 #image {
  overflow:hidden;
  width: 277px;
  height:370px;
+ cursor: pointer;
  }
 
  #image img {

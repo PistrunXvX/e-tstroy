@@ -1,0 +1,23 @@
+.modal-content {
+	background-color: #DDDFD3 !important;
+	border-radius: 10px;
+}
+
+.modal-title {
+	font-size: 25px;
+	font-weight: bold;
+	color: #173E44;
+}
+
+.articel-popup {
+	background-color: #FAE68A;
+	color: #173E44;
+	
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.carousel-inner {
+	height: 300px;
+}
