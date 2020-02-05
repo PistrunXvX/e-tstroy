@@ -69,17 +69,35 @@
 		</div>
 	</section>
 	<section class="report">
-		<div class="row">
-			<div class="col">
-				<h2>Отзывы</h2>
-			<div style="border: solid 12px blue; width: 500px; height: 500px;">
-			<img src="../img/project_img/project_1_1-min.jpg" height="500" width="500" class="img-template" id="image"> 
-		</div>
+		<h2>Отзывы</h2>
+		<div class="container-fluid report-color">
+		<div class="container">
+				<h3>Офис продаж жилого комплекса <b>SREDA</b></h3>
+			<div class="row report-row">
+				<div class="col-6">
+					<section class="photo-report">
+						<img src="../img/Bitmap.jpg" alt="Николай Миловидов">
+						<p>
+							Николай Миловидов
+						</p>
+						<p class="report-article">
+							Соучредитель и главный архитектор бюро UNK project
+						</p>
+					</section>
+				</div>
+					<div class="col-6 back-report">
+						<section class="main-report">
+						<p>
+							Этот проект оказался для нас интересным с концептуальной и даже философской точки зрения. Архитектура самого жилого комплекса не несет в себе ни малейших намеков на бывшее фабричное назначение территории и создает совершенно новую среду обитания
+						</p>
+						<span class="sitest-info">Источник:
+							<a href="https://officenext.ru/" target="_blanck">officenext</a>
+						</span>
 
-		<input type="button" value="PREVIOUS" id="prev" name="prev" onclick="goback();" >
-	
-		<input type="button" value="NEXT" id="next" name="next" onclick="gofwd();" >
-			</div>
+					</section>
+					</div>
+		</div>
+		</div>
 		</div>
 	</section>
 	<section class="project">

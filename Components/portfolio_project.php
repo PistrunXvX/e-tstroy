@@ -73,7 +73,7 @@
 					<div class="col-3" id="image" data-toggle="modal" data-target="#project_12">
 						<img src="../img/project_img/project_12_front-min.jpg" alt="Жилой дом–" class="img-template">
 						<p>
-							Жилой дом–
+							Жилой дом
 						</p>
 					</div>
 					<div class="col-3" id="image" data-toggle="modal" data-target="#project_13">

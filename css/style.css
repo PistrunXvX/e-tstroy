@@ -460,7 +460,41 @@ footer ul {
 	font-size: 25px;
 }
 
+
+
 /*PORTFOLIO style*/
+
+.report h3 {
+	text-align: center;
+
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.photo-report p{
+	text-align: center;
+}
+
+.photo-report img {
+	margin-left: 40%;
+}
+
+.back-report {
+	background-image: url(../img/sports-and-competition.svg);
+	background-repeat: no-repeat;
+	background-size: 30% 30%;
+	background-position: right bottom;
+}
+
+.report-color {
+	background-color: white;
+
+	margin-bottom: 5%;
+}
+	
+.report-row {
+	padding-bottom: 5%;
+}
 
 .project-back {
 	background-image: url(../img/2_chertez-min.jpg);
