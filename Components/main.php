@@ -109,7 +109,7 @@
 		<div class="row project-builds">
 			<div class="col-4">
 				<section class="project-1">
-					<a href="#">
+					<a href="../portfolio.php">
 						<img src="img/Proekt_1.png" class="img-fluid" alt="офис продаж жилого комплекса SREDA">
 						<p>
 							офис продаж жилого комплекса SREDA
@@ -119,7 +119,7 @@
 			</div>
 			<div class="col-4">
 				<section class="project-2">
-					<a href="#">
+					<a href="../portfolio.php">
 						<img src="img/Poekt_2.png" class="img-fluid" alt="строительство завода по производству газоизмерительных станций (ГИС)">
 						<p>
 							строительство завода ГИС
@@ -129,7 +129,7 @@
 			</div>
 			<div class="col-4">
 				<section class="project-3">
-					<a href="#">
+					<a href="../portfolio.php">
 						<img src="img/Proekt_3.png" class="img-fluid" alt="Комплекс работ по благоустройству города Плес">
 						<p>
 							Комплекс работ по благоустройству города Плес
@@ -145,7 +145,7 @@
 				</p>
 				<section class="right-text">
 					<p>
-						Убедитесь в этом в нашем <a href="#" class="portfolio-text-href">портфолио</a>
+						Убедитесь в этом в нашем <a href="../portfolio.php" class="portfolio-text-href">портфолио</a>
 					</p>
 				</section>
 			</div>
