@@ -49,7 +49,7 @@
 					<div class="col-3" id="image" data-toggle="modal" data-target="#project_8">
 						<img src="../img/project_img/project_8_front-min.jpg" alt="Строительный комплекс «Звезда России»" class="img-template">
 						<p>
-							Строительный комплекс «Звезда России»
+							Жилой комплекс «Звезда России»
 						</p>
 					</div>
 					<div class="col-3" id="image" data-toggle="modal" data-target="#project_9">
